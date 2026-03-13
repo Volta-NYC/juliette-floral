@@ -8,7 +8,7 @@ export default function AboutPage() {
       </p>
       <p className="text-brand-text/80 leading-relaxed">
         Whether you&apos;re celebrating love, honoring a loved one, or simply brightening someone&apos;s day,
-        we bring your vision to life &mdash; one bloom at a time.
+        we bring your vision to life - one bloom at a time.
       </p>
       <div className="rounded-[18px] bg-brand-peach p-6 text-brand-text space-y-1">
         <p className="font-heading text-lg">Visit Us</p>
