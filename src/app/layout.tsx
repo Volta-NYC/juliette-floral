@@ -36,9 +36,6 @@ export default function RootLayout({
     <html lang="en" className={`${poppins.variable} ${ovo.variable}`}>
       <body className="min-h-screen flex flex-col font-body text-brand-text">
         <CartProvider>
-          <div className="promo-shimmer text-white text-center py-2 text-sm px-4 tracking-wide">
-            🌸 Make Mom feel extra special with premium flowers 💐 Use <span className="font-semibold">MOM26</span> for $10 OFF
-          </div>
           <Navbar />
           <main className="flex-1">
             {children}

@@ -26,7 +26,7 @@ export default function CollectionsIndexPage() {
         {collections.map((col, i) => {
           const title = col.split("-").map((w) => w.charAt(0).toUpperCase() + w.slice(1)).join(" ")
           const products = getProductsByCategory(col)
-          const img = products[0]?.images[0] || "/placeholder.jpg"
+          const img = col === "cards" ? "/cards.webp" : products[0]?.images[0] || "/placeholder.jpg"
           const count = products.length
 
           return (

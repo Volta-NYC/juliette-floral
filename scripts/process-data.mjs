@@ -13,6 +13,7 @@ const products = [];
 const mediaMap = {};
 const collections = new Set();
 const slugCounts = {};
+const PROMO_LINE_REGEX = /(MOM26|Make Mom feel extra special|Mother['’]s Day|mothers day|moms who deserve|\$10 OFF|Limited availability)/i;
 const business = {
   name: 'Juliette Floral Design',
   address: '170 5TH AVE, BROOKLYN, NY 11217',
@@ -26,15 +27,17 @@ const business = {
 };
 
 async function downloadImage(url, destPath) {
-  if (fs.existsSync(destPath)) return; // Already downloaded
+  if (fs.existsSync(destPath)) return true; // Already downloaded
   try {
     console.log(`Downloading ${url}`);
     const response = await fetch(url);
     if (!response.ok) throw new Error(`HTTP ${response.status} for ${url}`);
     const buffer = await response.arrayBuffer();
     fs.writeFileSync(destPath, Buffer.from(buffer));
+    return true;
   } catch (err) {
     console.error(`Failed to download ${url}:`, err.message);
+    return false;
   }
 }
 
@@ -75,7 +78,7 @@ async function processFiles() {
         description = descMatch[1]
           .split('\n')
           .map(l => l.trim())
-          .filter(l => l && !l.includes('Pickup available') && !l.includes('Usually ready in 24 hours') && !l.includes('Decrease quantity') && !l.includes('Increase quantity'))
+          .filter(l => l && !l.includes('Pickup available') && !l.includes('Usually ready in 24 hours') && !l.includes('Decrease quantity') && !l.includes('Increase quantity') && !PROMO_LINE_REGEX.test(l))
           .join('\n');
     }
     
@@ -89,13 +92,13 @@ async function processFiles() {
              .replace(/Quantity\s*Decrease.*Add to cart/g, '') // remove quantity/cart
              .split('\n')
              .map(l => l.trim())
-             .filter(l => l && !l.includes('Pickup available') && !l.includes('Usually ready in 24 hours'))
+             .filter(l => l && !l.includes('Pickup available') && !l.includes('Usually ready in 24 hours') && !PROMO_LINE_REGEX.test(l))
              .join('\n');
         }
     }
 
     // Extract images
-    const imageMatches = [...content.matchAll(/!\[.*?\]\((https:\/\/juliettefloraldesign1\.com\/cdn\/shop\/files\/[^)]+)\)/g)];
+    const imageMatches = [...content.matchAll(/!\[.*?\]\((https:\/\/juliettefloraldesign1\.com\/cdn\/shop\/(?:files|products)\/[^)]+)\)/g)];
     const imagePaths = [];
     
     for (const match of imageMatches) {
@@ -112,17 +115,18 @@ async function processFiles() {
       const localPath = path.join(MEDIA_DIR, localFilename);
       const relativePath = `/media/${localFilename}`;
       
-      if (!imagePaths.includes(relativePath)) {
-        imagePaths.push(relativePath);
+      const downloaded = await downloadImage(rawUrl, localPath); // using the rawUrl (with query params) to download is safer for cdns
+      const finalPath = downloaded ? relativePath : cleanUrl;
+
+      if (!imagePaths.includes(finalPath)) {
+        imagePaths.push(finalPath);
       }
-      
+
       mediaMap[rawUrl] = {
-        localPath: relativePath,
+        localPath: finalPath,
         sourceFile: file,
         productSlug: slug
       };
-      
-      await downloadImage(rawUrl, localPath); // using the rawUrl (with query params) to download is safer for cdns
     }
     
     // Extract variants / prices
@@ -133,7 +137,7 @@ async function processFiles() {
        const variantName = (match[1] || 'Standard').trim().replace(/:\s*$/, '');
        const priceStr = match[2].replace(/,/g, '');
        const price = parseFloat(priceStr);
-       if (!isNaN(price) && !variants.some(v => v.price === price && v.name === variantName)) {
+       if (!isNaN(price) && !PROMO_LINE_REGEX.test(variantName) && !variants.some(v => v.price === price && v.name === variantName)) {
            variants.push({ name: variantName, price });
        }
     }
