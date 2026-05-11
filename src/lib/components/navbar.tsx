@@ -2,6 +2,7 @@
 
 import Link from "next/link"
 import { useState } from "react"
+import { useCart } from "../cart-context"
 
 const navLinks = [
   { label: "Home", href: "/" },
@@ -9,14 +10,13 @@ const navLinks = [
     label: "Flowers",
     href: "#",
     children: [
-      { label: "Fresh Flowers", href: "/pages/fresh-flowers" },
-      { label: "Dry Flowers", href: "/pages/dry-flowers" },
+      { label: "Fresh Flowers", href: "/collections/flowers" },
+      { label: "Dry Flowers", href: "/collections/dry-flowers" },
     ],
   },
-  { label: "Collections", href: "/pages/collections" },
-  { label: "Plants", href: "/pages/plants" },
-  { label: "Subscription", href: "/pages/subscription" },
-  { label: "Events", href: "/pages/events" },
+  { label: "Collections", href: "/collections" },
+  { label: "Plants", href: "/collections/plants" },
+  { label: "Cards", href: "/collections/cards" },
   { label: "Contact Us", href: "/contact" },
   { label: "About Us", href: "/about" },
 ]
@@ -24,6 +24,7 @@ const navLinks = [
 export default function Navbar() {
   const [menuOpen, setMenuOpen] = useState(false)
   const [flowersOpen, setFlowersOpen] = useState(false)
+  const { cartCount, setIsCartOpen } = useCart()
 
   return (
     <nav className="sticky top-0 z-50 bg-brand-olive border-b border-white/20 shadow-sm">
@@ -51,12 +52,18 @@ export default function Navbar() {
             </svg>
           </button>
           <button
-            className="inline-flex items-center justify-center w-9 h-9 rounded-full border border-white/30 hover:bg-white/10 transition-colors"
+            className="relative inline-flex items-center justify-center w-9 h-9 rounded-full border border-white/30 hover:bg-white/10 transition-colors"
             aria-label="Cart"
+            onClick={() => setIsCartOpen(true)}
           >
             <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 6h15l-1.5 9h-12zM6 6L4 3H2m7 15a1 1 0 100 2 1 1 0 000-2zm8 0a1 1 0 100 2 1 1 0 000-2z" />
             </svg>
+            {cartCount > 0 && (
+              <span className="absolute -top-1 -right-1 bg-brand-peach text-brand-text text-[10px] font-bold w-4 h-4 rounded-full flex items-center justify-center">
+                {cartCount}
+              </span>
+            )}
           </button>
         </div>
 

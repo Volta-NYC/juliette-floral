@@ -1,0 +1,2388 @@
+[
+  {
+    "id": "acadia",
+    "name": "Acadia",
+    "slug": "acadia",
+    "category": "flowers",
+    "description": "View store information\nThis cheerful arrangement is bursting with bright orange roses, delicate pink lilies, and a sunny chrysanthemum centerpiece, all accented with soft greenery. Perfect for bringing warmth and joy to any table!",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/acadia-b5e9b2bc.jpg",
+      "/media/acadia-b31a360b.jpg",
+      "/media/acadia-d87c8602.jpg"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/acadia",
+    "sourceFile": "juliettefloraldesign1.com_products_acadia.md"
+  },
+  {
+    "id": "alice-bouquet",
+    "name": "Alice bouquet",
+    "slug": "alice-bouquet",
+    "category": "flowers",
+    "description": "View store information\nJuliette roses/ pink roses /pink & white lisianthus/pink astilbe /pink ranunculus/ pink chrysanthemum and accents of green eucalyptus.",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/alice-bouquet-73210894.jpg",
+      "/media/alice-bouquet-a1b91b6d.jpg",
+      "/media/alice-bouquet-8b8b3e1f.jpg"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/alice-bouquet",
+    "sourceFile": "juliettefloraldesign1.com_products_alice-bouquet.md"
+  },
+  {
+    "id": "amada-bouquet",
+    "name": "Amada bouquet",
+    "slug": "amada-bouquet",
+    "category": "flowers",
+    "description": "View store information\nHydrangeas, lisianthus , chrysanthemums, ranunculus , dianthus .",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/amada-bouquet-6ab441be.jpg"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/amada-bouquet",
+    "sourceFile": "juliettefloraldesign1.com_products_amada-bouquet.md"
+  },
+  {
+    "id": "anastasia-bouquet",
+    "name": "Anastasia bouquet",
+    "slug": "anastasia-bouquet",
+    "category": "flowers",
+    "description": "Quantity\nDecrease quantity for Anastasia bouquetIncrease quantity for Anastasia bouquet\nSold out\nCouldn't load pickup availability\nRefresh\n**Please place your order at least one day in advance.**\nPremium high quality bouquet , perfect for birthdays or anniversary.",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/anastasia-bouquet-d4cf9395.jpg"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/anastasia-bouquet",
+    "sourceFile": "juliettefloraldesign1.com_products_anastasia-bouquet.md"
+  },
+  {
+    "id": "anywhere-with-you",
+    "name": "Anywhere with you",
+    "slug": "anywhere-with-you",
+    "category": "flowers",
+    "description": "View store information",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/anywhere-with-you-8975177c.png"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/anywhere-with-you",
+    "sourceFile": "juliettefloraldesign1.com_products_anywhere-with-you.md"
+  },
+  {
+    "id": "aroma-bouquet",
+    "name": "Aroma bouquet",
+    "slug": "aroma-bouquet",
+    "category": "flowers",
+    "description": "View store information\nRed roses with eucalyptus accents.",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      },
+      {
+        "name": "aroma)\n\nSize\n1 Dz",
+        "price": 80
+      },
+      {
+        "name": "2 Dz",
+        "price": 150
+      },
+      {
+        "name": "3 Dz",
+        "price": 215
+      },
+      {
+        "name": "1 Dz",
+        "price": 80
+      }
+    ],
+    "images": [],
+    "originalUrl": "https://juliettefloraldesign1.com/products/aroma",
+    "sourceFile": "juliettefloraldesign1.com_products_aroma.md"
+  },
+  {
+    "id": "beautiful-spirit-basket",
+    "name": "Beautiful spirit basket",
+    "slug": "beautiful-spirit-basket",
+    "category": "flowers",
+    "description": "View store information\nSeasonal blooms",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/beautiful-spirit-basket-d3849dc2.jpg",
+      "/media/beautiful-spirit-basket-02ffa8a0.jpg"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/beautiful-spirit-basket",
+    "sourceFile": "juliettefloraldesign1.com_products_beautiful-spirit-basket.md"
+  },
+  {
+    "id": "best-mom",
+    "name": "Best mom",
+    "slug": "best-mom",
+    "category": "flowers",
+    "description": "View store information",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/best-mom-8c2cb88d.png"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/best-mom",
+    "sourceFile": "juliettefloraldesign1.com_products_best-mom.md"
+  },
+  {
+    "id": "crimson-kiss",
+    "name": "Crimson kiss",
+    "slug": "crimson-kiss",
+    "category": "flowers",
+    "description": "View store information\nroses,tulips,hypericum,astrantia,garden roses and accents of dry flowers.",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      },
+      {
+        "name": "big-suenos)\n\nSize\nSmall",
+        "price": 105
+      },
+      {
+        "name": "Deluxe",
+        "price": 155
+      },
+      {
+        "name": "Small",
+        "price": 105
+      }
+    ],
+    "images": [
+      "/media/crimson-kiss-a4fc5ee9.jpg"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/big-suenos",
+    "sourceFile": "juliettefloraldesign1.com_products_big-suenos.md"
+  },
+  {
+    "id": "birthday-girl",
+    "name": "Birthday girl",
+    "slug": "birthday-girl",
+    "category": "flowers",
+    "description": "Quantity\nDecrease quantity for Birthday girlIncrease quantity for Birthday girl\nSold out\nCouldn't load pickup availability\nRefresh",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/birthday-girl-d631894c.png"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/birthday-girl",
+    "sourceFile": "juliettefloraldesign1.com_products_birthday-girl.md"
+  },
+  {
+    "id": "birthday-wishes-2",
+    "name": "Birthday wishes 2",
+    "slug": "birthday-wishes-2",
+    "category": "flowers",
+    "description": "Quantity\nDecrease quantity for Birthday wishes 2Increase quantity for Birthday wishes 2\nSold out\nCouldn't load pickup availability\nRefresh",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/birthday-wishes-2-090e6c57.webp"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/birthday-wishes-2",
+    "sourceFile": "juliettefloraldesign1.com_products_birthday-wishes-2.md"
+  },
+  {
+    "id": "feel-butter",
+    "name": "Feel butter",
+    "slug": "feel-butter",
+    "category": "flowers",
+    "description": "View store information",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/feel-butter-d58e1ab8.png"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/birthday-wishes",
+    "sourceFile": "juliettefloraldesign1.com_products_birthday-wishes.md"
+  },
+  {
+    "id": "blooming-grace-bouquet",
+    "name": "Blooming Grace bouquet",
+    "slug": "blooming-grace-bouquet",
+    "category": "flowers",
+    "description": "View store information\nPremium flowers  —— ranunculus / peonies/hydrangeas/tulips/orchid/garden roses",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/blooming-grace-bouquet-c2e99f0e.jpg",
+      "/media/blooming-grace-bouquet-1d50ebcc.jpg",
+      "/media/blooming-grace-bouquet-2f75a68a.jpg",
+      "/media/blooming-grace-bouquet-8d0a7f30.jpg"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/blooming-grace-bouquet",
+    "sourceFile": "juliettefloraldesign1.com_products_blooming-grace-bouquet.md"
+  },
+  {
+    "id": "brooklyn-arrangement",
+    "name": "BroOKlyn Arrangement",
+    "slug": "brooklyn-arrangement",
+    "category": "flowers",
+    "description": "Quantity\nDecrease quantity for BroOKlyn ArrangementIncrease quantity for BroOKlyn Arrangement\nSold out\nCouldn't load pickup availability\nRefresh\nPremium Arrangement\nOrange ranunculus/blue hydrangeas/orange spray roses /white orchids /mini greens / parvifolia eucalyptus.\nvase includes.",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/brooklyn-arrangement-6845415a.jpg",
+      "/media/brooklyn-arrangement-c783409a.jpg",
+      "/media/brooklyn-arrangement-d72580ec.jpg"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/brooklyn-arrangement",
+    "sourceFile": "juliettefloraldesign1.com_products_brooklyn-arrangement.md"
+  },
+  {
+    "id": "festin",
+    "name": "Festin",
+    "slug": "festin",
+    "category": "flowers",
+    "description": "Size\nSet of 2 bud vases $85\nSet of 4 bud vases $155\nQuantity\nDecrease quantity for FestinIncrease quantity for Festin\nSold out\nCouldn't load pickup availability\nRefresh\n4 bud vases with high quality flowers ;Garden roses , stock , ranunculus, tulips and white astrantia  .\nPerfect for a small  table .",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      },
+      {
+        "name": "bud-vases-1)\n\nSize\nSet of 2 bud vases",
+        "price": 85
+      },
+      {
+        "name": "Set of 4 bud vases",
+        "price": 155
+      }
+    ],
+    "images": [],
+    "originalUrl": "https://juliettefloraldesign1.com/products/bud-vases-1",
+    "sourceFile": "juliettefloraldesign1.com_products_bud-vases-1.md"
+  },
+  {
+    "id": "butterfly-bouquet",
+    "name": "Butterfly Bouquet",
+    "slug": "butterfly-bouquet",
+    "category": "flowers",
+    "description": "View store information\nFresh bouquet with premium flowers.",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/butterfly-bouquet-6e66b87d.jpg",
+      "/media/butterfly-bouquet-11cfa94a.jpg",
+      "/media/butterfly-bouquet-17ebd8ec.jpg"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/butterfly-boquet",
+    "sourceFile": "juliettefloraldesign1.com_products_butterfly-boquet.md"
+  },
+  {
+    "id": "beautiful-baby",
+    "name": "Beautiful baby",
+    "slug": "beautiful-baby",
+    "category": "flowers",
+    "description": "Quantity\nDecrease quantity for Beautiful babyIncrease quantity for Beautiful baby\nSold out\nCouldn't load pickup availability\nRefresh",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/beautiful-baby-bf4ffcef.png"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/card",
+    "sourceFile": "juliettefloraldesign1.com_products_card.md"
+  },
+  {
+    "id": "catalina-bouquet",
+    "name": "Catalina bouquet",
+    "slug": "catalina-bouquet",
+    "category": "flowers",
+    "description": "View store information\nStock , mix roses , chrysanthemums, tulips and  carnation",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      },
+      {
+        "name": "catalina-bouquet)\n\nSize\nPetite",
+        "price": 75
+      },
+      {
+        "name": "Deluxe",
+        "price": 135
+      },
+      {
+        "name": "Petite",
+        "price": 75
+      }
+    ],
+    "images": [
+      "/media/catalina-bouquet-643982a7.heic",
+      "/media/catalina-bouquet-08334a3b.heic"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/catalina-bouquet",
+    "sourceFile": "juliettefloraldesign1.com_products_catalina-bouquet.md"
+  },
+  {
+    "id": "cielito",
+    "name": "Cielito",
+    "slug": "cielito",
+    "category": "flowers",
+    "description": "Quantity\nDecrease quantity for CielitoIncrease quantity for Cielito\nSold out\nCouldn't load pickup availability\nRefresh\nPreserved florals\nvase include",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/cielito-09f05ce9.png"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/cielito",
+    "sourceFile": "juliettefloraldesign1.com_products_cielito.md"
+  },
+  {
+    "id": "coryle",
+    "name": "Coryle",
+    "slug": "coryle",
+    "category": "flowers",
+    "description": "View store information\n```\n\"Coryle\" the meaning of love and the poetry of an Ecuadorian woman.\n```",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [],
+    "originalUrl": "https://juliettefloraldesign1.com/products/coryle",
+    "sourceFile": "juliettefloraldesign1.com_products_coryle.md"
+  },
+  {
+    "id": "birthday-wishes",
+    "name": "Birthday wishes",
+    "slug": "birthday-wishes",
+    "category": "flowers",
+    "description": "View store information",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/birthday-wishes-1079ac78.png"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/dalmata-card",
+    "sourceFile": "juliettefloraldesign1.com_products_dalmata-card.md"
+  },
+  {
+    "id": "designer-choice-blush-and-pinks",
+    "name": "Designer choice (blush and pinks )",
+    "slug": "designer-choice-blush-and-pinks",
+    "category": "flowers",
+    "description": "View store information\n**Hand-tide Bouquet with seasonal flowers.**",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      },
+      {
+        "name": "designer-choice-blush-and-pinks)\n\nSize\nXsmall",
+        "price": 60
+      },
+      {
+        "name": "Small",
+        "price": 75
+      },
+      {
+        "name": "Medium",
+        "price": 125
+      },
+      {
+        "name": "Large",
+        "price": 195
+      },
+      {
+        "name": "Deluxe",
+        "price": 235
+      },
+      {
+        "name": "Grand",
+        "price": 299
+      },
+      {
+        "name": "Xsmall",
+        "price": 60
+      }
+    ],
+    "images": [
+      "/media/designer-choice-blush-and-pinks-ddcb347a.png"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/designer-choice-blush-and-pinks",
+    "sourceFile": "juliettefloraldesign1.com_products_designer-choice-blush-and-pinks.md"
+  },
+  {
+    "id": "designer-choice-bouquet-valentines-edition",
+    "name": "Designer choice bouquet (valentines edition)",
+    "slug": "designer-choice-bouquet-valentines-edition",
+    "category": "flowers",
+    "description": "View store information\nWhen you choose our Designer’s Choice option, you’re giving our experts the freedom to handpick the flowers.\npreserved flowers\nThe result? A stunning, unique bouquet that perfectly captures the spirit of the season!",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/designer-choice-bouquet-valentines-edition-e62ce9f9.jpg",
+      "/media/designer-choice-bouquet-valentines-edition-cda38132.jpg"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/designer-choice-bouquet",
+    "sourceFile": "juliettefloraldesign1.com_products_designer-choice-bouquet.md"
+  },
+  {
+    "id": "verde",
+    "name": "Verde",
+    "slug": "verde",
+    "category": "flowers",
+    "description": "View store information\nA beautiful wild bouquet with different kinds of greenery with a little  accented of red.",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [],
+    "originalUrl": "https://juliettefloraldesign1.com/products/designers-choice-10",
+    "sourceFile": "juliettefloraldesign1.com_products_designers-choice-10.md"
+  },
+  {
+    "id": "designer-s-choice-vase",
+    "name": "Designer's Choice vase",
+    "slug": "designer-s-choice-vase",
+    "category": "flowers",
+    "description": "View store information\n**Arrangements  with seasonal flowers.**\n**(Vase included)**",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/designer-s-choice-vase-eb5c1c45.webp"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/designers-choice-5",
+    "sourceFile": "juliettefloraldesign1.com_products_designers-choice-5.md"
+  },
+  {
+    "id": "designer-s-choice-bouquet",
+    "name": "Designer's Choice Bouquet",
+    "slug": "designer-s-choice-bouquet",
+    "category": "flowers",
+    "description": "View store information\n**Hand-tide Bouquet with seasonal flowers.**",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/designer-s-choice-bouquet-eb5c1c45.webp"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/designers-choice",
+    "sourceFile": "juliettefloraldesign1.com_products_designers-choice.md"
+  },
+  {
+    "id": "dulce-bouquet",
+    "name": "Dulce bouquet",
+    "slug": "dulce-bouquet",
+    "category": "flowers",
+    "description": "View store information\nGarden Roses /mini gerberas /pink ranunculus / white tulips and mini roses",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/dulce-bouquet-c015c94b.jpg",
+      "/media/dulce-bouquet-e673fef1.jpg"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/dulce-bouquet",
+    "sourceFile": "juliettefloraldesign1.com_products_dulce-bouquet.md"
+  },
+  {
+    "id": "dulce",
+    "name": "Dulce",
+    "slug": "dulce",
+    "category": "flowers",
+    "description": "Quantity\nDecrease quantity for DulceIncrease quantity for Dulce\nSold out\nCouldn't load pickup availability\nRefresh\nPreserved arrangement",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/dulce-516f7fa8.jpg"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/dulce",
+    "sourceFile": "juliettefloraldesign1.com_products_dulce.md"
+  },
+  {
+    "id": "fall-harmony",
+    "name": "Fall Harmony",
+    "slug": "fall-harmony",
+    "category": "flowers",
+    "description": "Size\nPetite $145\nGrande$215\nQuantity\nDecrease quantity for Fall HarmonyIncrease quantity for Fall Harmony\nSold out\nCouldn't load pickup availability\nRefresh\nThe perfect centerpiece for gathering loved ones around the table. Mix of garden  roses , hydrangeas ,snapdragon,a beautiful protea ,orchid ,blue thistle and orange ranunculus .\n**\\*Pictured: Grande**\n**Pre-Order Now Through November 26, 2025. (Limited Quantity Available)**\n**Delivery available on November 26th only and pick up on November 27th.**",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      },
+      {
+        "name": "fall-harvest-harmony)\n\nSize\nPetite",
+        "price": 145
+      },
+      {
+        "name": "Grande",
+        "price": 215
+      }
+    ],
+    "images": [],
+    "originalUrl": "https://juliettefloraldesign1.com/products/fall-harvest-harmony",
+    "sourceFile": "juliettefloraldesign1.com_products_fall-harvest-harmony.md"
+  },
+  {
+    "id": "garden-flow",
+    "name": "Garden Flow",
+    "slug": "garden-flow",
+    "category": "flowers",
+    "description": "View store information\nTulips mix /chrysanthemums /snapdragon / fillers and lisianthus",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/garden-flow-e7004086.jpg",
+      "/media/garden-flow-4bc2f250.jpg",
+      "/media/garden-flow-d3cc46aa.jpg",
+      "/media/garden-flow-3b29204c.jpg",
+      "/media/garden-flow-800fff0a.jpg"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/garden-flow",
+    "sourceFile": "juliettefloraldesign1.com_products_garden-flow.md"
+  },
+  {
+    "id": "get-well-soon",
+    "name": "Get well soon",
+    "slug": "get-well-soon",
+    "category": "flowers",
+    "description": "View store information",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/get-well-soon-22662b08.png"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/get-well-soon",
+    "sourceFile": "juliettefloraldesign1.com_products_get-well-soon.md"
+  },
+  {
+    "id": "super-bouquet",
+    "name": "Super Bouquet!",
+    "slug": "super-bouquet",
+    "category": "flowers",
+    "description": "View store information\nOur beautiful super bouquets .\navailable different colors, please let us know in the instructions part what color you need.",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      },
+      {
+        "name": "grandioso-bouquet)\n\nSize\nSmall (50 roses )",
+        "price": 225
+      },
+      {
+        "name": "Medium (100 roses )",
+        "price": 435
+      },
+      {
+        "name": "Small (50 roses )",
+        "price": 225
+      }
+    ],
+    "images": [],
+    "originalUrl": "https://juliettefloraldesign1.com/products/grandioso-bouquet",
+    "sourceFile": "juliettefloraldesign1.com_products_grandioso-bouquet.md"
+  },
+  {
+    "id": "happily-ever-after",
+    "name": "Happily ever after",
+    "slug": "happily-ever-after",
+    "category": "flowers",
+    "description": "View store information",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/happily-ever-after-149b3f16.png"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/happily-ever-after",
+    "sourceFile": "juliettefloraldesign1.com_products_happily-ever-after.md"
+  },
+  {
+    "id": "happy-birthday",
+    "name": "Happy birthday",
+    "slug": "happy-birthday",
+    "category": "flowers",
+    "description": "View store information",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/happy-birthday-11010647.png"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/happy-birthday-10",
+    "sourceFile": "juliettefloraldesign1.com_products_happy-birthday-10.md"
+  },
+  {
+    "id": "happy-birthday",
+    "name": "Happy birthday",
+    "slug": "happy-birthday",
+    "category": "flowers",
+    "description": "View store information",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/happy-birthday-1dd8fc3f.png"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/happy-birthday-11",
+    "sourceFile": "juliettefloraldesign1.com_products_happy-birthday-11.md"
+  },
+  {
+    "id": "here-it-s-your-birthday",
+    "name": "Here it’s your birthday!",
+    "slug": "here-it-s-your-birthday",
+    "category": "flowers",
+    "description": "View store information",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/here-it-s-your-birthday-f7f072ba.png"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/happy-birthday-3",
+    "sourceFile": "juliettefloraldesign1.com_products_happy-birthday-3.md"
+  },
+  {
+    "id": "happy-birthday",
+    "name": "Happy birthday",
+    "slug": "happy-birthday",
+    "category": "flowers",
+    "description": "View store information",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/happy-birthday-f21df652.png"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/happy-birthday-4",
+    "sourceFile": "juliettefloraldesign1.com_products_happy-birthday-4.md"
+  },
+  {
+    "id": "happy-birthday",
+    "name": "Happy birthday",
+    "slug": "happy-birthday",
+    "category": "flowers",
+    "description": "View store information",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/happy-birthday-db18e832.png"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/happy-birthday-5",
+    "sourceFile": "juliettefloraldesign1.com_products_happy-birthday-5.md"
+  },
+  {
+    "id": "happy-birthday",
+    "name": "Happy birthday",
+    "slug": "happy-birthday",
+    "category": "flowers",
+    "description": "View store information",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/happy-birthday-c5ed1e13.png"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/happy-birthday-6",
+    "sourceFile": "juliettefloraldesign1.com_products_happy-birthday-6.md"
+  },
+  {
+    "id": "happy-birthday",
+    "name": "Happy birthday",
+    "slug": "happy-birthday",
+    "category": "flowers",
+    "description": "View store information",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/happy-birthday-73a5114f.png"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/happy-birthday-9",
+    "sourceFile": "juliettefloraldesign1.com_products_happy-birthday-9.md"
+  },
+  {
+    "id": "happy-birthday-dog",
+    "name": "Happy Birthday Dog",
+    "slug": "happy-birthday-dog",
+    "category": "flowers",
+    "description": "Quantity\nDecrease quantity for Happy Birthday DogIncrease quantity for Happy Birthday Dog\nSold out\nCouldn't load pickup availability\nRefresh",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/happy-birthday-dog-6190de71.png"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/happy-birthday-love-key",
+    "sourceFile": "juliettefloraldesign1.com_products_happy-birthday-love-key.md"
+  },
+  {
+    "id": "happy-birthday",
+    "name": "Happy birthday",
+    "slug": "happy-birthday",
+    "category": "flowers",
+    "description": "View store information",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/happy-birthday-c327bf1a.png"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/happy-birthday",
+    "sourceFile": "juliettefloraldesign1.com_products_happy-birthday.md"
+  },
+  {
+    "id": "i-m-shrimply-in-love-with-you",
+    "name": "I’m shrimply in love with you",
+    "slug": "i-m-shrimply-in-love-with-you",
+    "category": "flowers",
+    "description": "View store information",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/i-m-shrimply-in-love-with-you-48933834.png"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/happy-hanukkah",
+    "sourceFile": "juliettefloraldesign1.com_products_happy-hanukkah.md"
+  },
+  {
+    "id": "happy-couple",
+    "name": "Happy couple",
+    "slug": "happy-couple",
+    "category": "flowers",
+    "description": "View store information",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/happy-couple-ee1d3868.png"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/happy-holidays-1",
+    "sourceFile": "juliettefloraldesign1.com_products_happy-holidays-1.md"
+  },
+  {
+    "id": "happy-mother-s-day",
+    "name": "Happy Mother’s Day",
+    "slug": "happy-mother-s-day",
+    "category": "flowers",
+    "description": "View store information",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/happy-mother-s-day-de3e40dc.png"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/happy-mother-s-day-1",
+    "sourceFile": "juliettefloraldesign1.com_products_happy-mother-s-day-1.md"
+  },
+  {
+    "id": "happy-mother-s-day",
+    "name": "Happy Mother’s day",
+    "slug": "happy-mother-s-day",
+    "category": "flowers",
+    "description": "Quantity\nDecrease quantity for Happy Mother’s dayIncrease quantity for Happy Mother’s day\nSold out\nCouldn't load pickup availability\nRefresh",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/happy-mother-s-day-1f1d075a.png"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/happy-mother-s-day",
+    "sourceFile": "juliettefloraldesign1.com_products_happy-mother-s-day.md"
+  },
+  {
+    "id": "happy-mothers-day",
+    "name": "Happy mothers day",
+    "slug": "happy-mothers-day",
+    "category": "flowers",
+    "description": "View store information",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/happy-mothers-day-22dafc5a.png"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/happy-mothers-day",
+    "sourceFile": "juliettefloraldesign1.com_products_happy-mothers-day.md"
+  },
+  {
+    "id": "hello-kitty",
+    "name": "Hello kitty",
+    "slug": "hello-kitty",
+    "category": "flowers",
+    "description": "View store information",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/hello-kitty-9ec22bda.heic",
+      "/media/hello-kitty-037b3bba.heic"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/hello-kitty",
+    "sourceFile": "juliettefloraldesign1.com_products_hello-kitty.md"
+  },
+  {
+    "id": "holiday-glow",
+    "name": "Holiday Glow",
+    "slug": "holiday-glow",
+    "category": "flowers",
+    "description": "View store information\nA combination of red garden roses and standard roses , garden peach roses , cedar mix  , green dianthus , beautiful tulips and touches of red ilex and curly willow.\nFestive decor, holiday gifts, or turning your home into the Hallmark movie of your dreams.",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/holiday-glow-7fa695f4.jpg",
+      "/media/holiday-glow-10f8046f.jpg",
+      "/media/holiday-glow-b01e8d46.jpg",
+      "/media/holiday-glow-e53c370e.jpg",
+      "/media/holiday-glow-7944ddeb.jpg"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/holiday-glow",
+    "sourceFile": "juliettefloraldesign1.com_products_holiday-glow.md"
+  },
+  {
+    "id": "i-love-you-more-than-ramen",
+    "name": "I love you more than ramen",
+    "slug": "i-love-you-more-than-ramen",
+    "category": "flowers",
+    "description": "View store information",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/i-love-you-more-than-ramen-e735ade1.png"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/i-love-you-more-than-ramen",
+    "sourceFile": "juliettefloraldesign1.com_products_i-love-you-more-than-ramen.md"
+  },
+  {
+    "id": "i-miss-you-card",
+    "name": "I Miss You Card",
+    "slug": "i-miss-you-card",
+    "category": "cards",
+    "description": "View store information",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [],
+    "originalUrl": "https://juliettefloraldesign1.com/products/i-miss-you-card",
+    "sourceFile": "juliettefloraldesign1.com_products_i-miss-you-card.md"
+  },
+  {
+    "id": "isla",
+    "name": "Isla",
+    "slug": "isla",
+    "category": "flowers",
+    "description": "Quantity\nDecrease quantity for IslaIncrease quantity for Isla\nSold out\nCouldn't load pickup availability\nRefresh\nPreserved arrangement\nduration 2-3 years",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/isla-6f926f26.heic",
+      "/media/isla-e232fe23.heic"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/isla",
+    "sourceFile": "juliettefloraldesign1.com_products_isla.md"
+  },
+  {
+    "id": "coral-garden-bouquet",
+    "name": "Coral Garden Bouquet",
+    "slug": "coral-garden-bouquet",
+    "category": "flowers",
+    "description": "View store information\nPimavera premium rose , Salome ranunculus , eucalyptus, dahlias or peonies depending on what is on season and a succulent.",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      },
+      {
+        "name": "jk)\n\nSize\nStandard",
+        "price": 115
+      },
+      {
+        "name": "Grande",
+        "price": 155
+      },
+      {
+        "name": "Standard",
+        "price": 115
+      }
+    ],
+    "images": [
+      "/media/coral-garden-bouquet-bcca2ac5.jpg",
+      "/media/coral-garden-bouquet-6f9c0ee5.jpg",
+      "/media/coral-garden-bouquet-447fb5ee.jpg"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/jk",
+    "sourceFile": "juliettefloraldesign1.com_products_jk.md"
+  },
+  {
+    "id": "julieta-bouquet",
+    "name": "Julieta Bouquet",
+    "slug": "julieta-bouquet",
+    "category": "flowers",
+    "description": "View store information\nHug quality flowers\nlight pink peonies , pink mondial premium roses , pink anthurium\nBouquet ( NO vase)",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      },
+      {
+        "name": "julieta-bouquet)\n\nSize\nStandard",
+        "price": 145
+      },
+      {
+        "name": "Standard",
+        "price": 145
+      }
+    ],
+    "images": [
+      "/media/julieta-bouquet-0c4e7585.heic",
+      "/media/julieta-bouquet-03415bf2.heic"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/julieta-bouquet",
+    "sourceFile": "juliettefloraldesign1.com_products_julieta-bouquet.md"
+  },
+  {
+    "id": "juliette-s-gift-cards",
+    "name": "Juliette’s gift cards",
+    "slug": "juliette-s-gift-cards",
+    "category": "cards",
+    "description": "Couldn't load pickup availability\nRefresh\nPurchasing this digital gift card creates a unique code. The gift card recipient can enter this code at checkout to subtract the gift card value from their order total.\nThis gift card never expires.",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      },
+      {
+        "name": "juliette-s-gift-cards)\n\nDenominations",
+        "price": 65
+      },
+      {
+        "name": "",
+        "price": 85
+      },
+      {
+        "name": "",
+        "price": 100
+      },
+      {
+        "name": "",
+        "price": 150
+      },
+      {
+        "name": "",
+        "price": 200
+      }
+    ],
+    "images": [
+      "/media/juliette-s-gift-cards-eca0383c.jpg"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/juliette-s-gift-cards",
+    "sourceFile": "juliettefloraldesign1.com_products_juliette-s-gift-cards.md"
+  },
+  {
+    "id": "kids-workshop-sunday-oct-26",
+    "name": "Kids workshop sunday oct 26",
+    "slug": "kids-workshop-sunday-oct-26",
+    "category": "flowers",
+    "description": "Pots\nBlue unicorn\nPink unicorn\nWhite dog\nGray dog\nPrincess\nQuantity\nDecrease quantity for Kids workshop sunday oct 26Increase quantity for Kids workshop sunday oct 26\nSold out\nCouldn't load pickup availability\nRefresh\n**Cultivate a love for nature and a connection to plants in your kids by signing up for a Children's Gardening class at Juliette Floral Design.**\n**Children ages 4+ can plant their own plants.**\n**You will learn :**\n**\\*how to select the best plant**\n**\\*how to prepare the soil**\n**\\*how to plant properly**\n**\\*how to care for the plant**\n\\*Kids will be receiving a snack and drink\n\\*kids will take the plant home\n\\\\* Thai is a DROP-off class",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/kids-workshop-sunday-oct-26-18056068.png"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/kids-workshop-friday-july-12th",
+    "sourceFile": "juliettefloraldesign1.com_products_kids-workshop-friday-july-12th.md"
+  },
+  {
+    "id": "lilies",
+    "name": "Lilies",
+    "slug": "lilies",
+    "category": "flowers",
+    "description": "View store information\nOriental lilies",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [],
+    "originalUrl": "https://juliettefloraldesign1.com/products/lilies",
+    "sourceFile": "juliettefloraldesign1.com_products_lilies.md"
+  },
+  {
+    "id": "long-happy-birthday",
+    "name": "Long happy birthday",
+    "slug": "long-happy-birthday",
+    "category": "flowers",
+    "description": "Quantity\nDecrease quantity for Long happy birthdayIncrease quantity for Long happy birthday\nSold out\nCouldn't load pickup availability\nRefresh",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/long-happy-birthday-74e4ffe2.png"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/long-happy-birthday",
+    "sourceFile": "juliettefloraldesign1.com_products_long-happy-birthday.md"
+  },
+  {
+    "id": "brisa",
+    "name": "Brisa",
+    "slug": "brisa",
+    "category": "flowers",
+    "description": "View store information",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/brisa-0f329cb0.jpg",
+      "/media/brisa-e0ef3542.jpg"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/loving-sentiments",
+    "sourceFile": "juliettefloraldesign1.com_products_loving-sentiments.md"
+  },
+  {
+    "id": "loving-you",
+    "name": "Loving you",
+    "slug": "loving-you",
+    "category": "flowers",
+    "description": "View store information",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/loving-you-07598f43.jpg"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/loving-you",
+    "sourceFile": "juliettefloraldesign1.com_products_loving-you.md"
+  },
+  {
+    "id": "nuez",
+    "name": "Nuez",
+    "slug": "nuez",
+    "category": "flowers",
+    "description": "$122\n$122\nQuantity\nDecrease quantity for NuezIncrease quantity for Nuez\nSold out\nCouldn't load pickup availability\nRefresh\nDutch hydrangeas/ garden roses / mini proteas /  cushion / wax flowers and accents of pittusporum greens",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      },
+      {
+        "name": "lucia-1)",
+        "price": 122
+      },
+      {
+        "name": "",
+        "price": 122
+      }
+    ],
+    "images": [
+      "/media/nuez-0a477425.jpg",
+      "/media/nuez-1c985f46.jpg"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/lucia-1",
+    "sourceFile": "juliettefloraldesign1.com_products_lucia-1.md"
+  },
+  {
+    "id": "madison",
+    "name": "Madison",
+    "slug": "madison",
+    "category": "flowers",
+    "description": "Quantity\nDecrease quantity for MadisonIncrease quantity for Madison\nSold out\nCouldn't load pickup availability\nRefresh\nPreserved flowers\nvase include",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/madison-c7398ccf.jpg"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/madison",
+    "sourceFile": "juliettefloraldesign1.com_products_madison.md"
+  },
+  {
+    "id": "magical-birthday",
+    "name": "Magical birthday",
+    "slug": "magical-birthday",
+    "category": "flowers",
+    "description": "View store information",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/magical-birthday-c5bc911e.png"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/magical-birthday",
+    "sourceFile": "juliettefloraldesign1.com_products_magical-birthday.md"
+  },
+  {
+    "id": "orchid",
+    "name": "Orchid",
+    "slug": "orchid",
+    "category": "flowers",
+    "description": "Quantity\nDecrease quantity for OrchidIncrease quantity for Orchid\nSold out\nCouldn't load pickup availability\nRefresh\nCymbidium orchid",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/orchid-f662bb5e.png",
+      "/media/orchid-3031f0fd.png"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/mama-orchid",
+    "sourceFile": "juliettefloraldesign1.com_products_mama-orchid.md"
+  },
+  {
+    "id": "m-a-bouquet",
+    "name": "Mía bouquet",
+    "slug": "m-a-bouquet",
+    "category": "flowers",
+    "description": "View store information\n\\*juliet garden roses\n\\*stock\n\\*Mondial pink roses\n\\\\* mini roses\n\\\\* white astrantia\n\\*baby blue eucalyptus\n\\*Dhalias or peonies depends on what is on season\nchrysanthemums",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      },
+      {
+        "name": "mia-bouquet)\n\nSize\nStandard",
+        "price": 135
+      },
+      {
+        "name": "Standard",
+        "price": 135
+      }
+    ],
+    "images": [],
+    "originalUrl": "https://juliettefloraldesign1.com/products/mia-bouquet",
+    "sourceFile": "juliettefloraldesign1.com_products_mia-bouquet.md"
+  },
+  {
+    "id": "mom",
+    "name": "Mom",
+    "slug": "mom",
+    "category": "flowers",
+    "description": "View store information",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/mom-d41e4190.png"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/mom-1",
+    "sourceFile": "juliettefloraldesign1.com_products_mom-1.md"
+  },
+  {
+    "id": "monstera-plant",
+    "name": "Monstera plant",
+    "slug": "monstera-plant",
+    "category": "plants",
+    "description": "View store information",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [],
+    "originalUrl": "https://juliettefloraldesign1.com/products/monstera-plant",
+    "sourceFile": "juliettefloraldesign1.com_products_monstera-plant.md"
+  },
+  {
+    "id": "mother-s-day",
+    "name": "Mother’s Day",
+    "slug": "mother-s-day",
+    "category": "flowers",
+    "description": "View store information",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/mother-s-day-40717b4e.png"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/mother-s-day",
+    "sourceFile": "juliettefloraldesign1.com_products_mother-s-day.md"
+  },
+  {
+    "id": "new-home",
+    "name": "New home",
+    "slug": "new-home",
+    "category": "flowers",
+    "description": "View store information",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/new-home-3faed380.png"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/new-home",
+    "sourceFile": "juliettefloraldesign1.com_products_new-home.md"
+  },
+  {
+    "id": "nory-bouquet",
+    "name": "Nory bouquet",
+    "slug": "nory-bouquet",
+    "category": "flowers",
+    "description": "View store information\nPremium flowers .",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/nory-bouquet-96bb63e8.jpg"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/nory-bouquet",
+    "sourceFile": "juliettefloraldesign1.com_products_nory-bouquet.md"
+  },
+  {
+    "id": "oh-lily",
+    "name": "Oh lily !",
+    "slug": "oh-lily",
+    "category": "flowers",
+    "description": "View store information\nOriental Lily arrangement.",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/oh-lily-a99729c1.jpg",
+      "/media/oh-lily-1d0367bb.jpg"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/oh-lily",
+    "sourceFile": "juliettefloraldesign1.com_products_oh-lily.md"
+  },
+  {
+    "id": "oto-o",
+    "name": "Otoño",
+    "slug": "oto-o",
+    "category": "flowers",
+    "description": "View store information\nPreserved arrangement",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/oto-o-ec94adb5.heic",
+      "/media/oto-o-d2c10716.heic"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/otono-1",
+    "sourceFile": "juliettefloraldesign1.com_products_otono-1.md"
+  },
+  {
+    "id": "paola",
+    "name": "Paola",
+    "slug": "paola",
+    "category": "flowers",
+    "description": "Quantity\nDecrease quantity for PaolaIncrease quantity for Paola\nSold out\nCouldn't load pickup availability\nRefresh\nFloral arrangement (vase include)\n**Dahlias ( if we don’t have dahlias available , can be replaced by ranunculus )**\n, free spirit roses , stock and touches of eucalyptus",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/paola-92d6dd50.jpg",
+      "/media/paola-2608e6c2.jpg"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/paola",
+    "sourceFile": "juliettefloraldesign1.com_products_paola.md"
+  },
+  {
+    "id": "pearl",
+    "name": "Pearl",
+    "slug": "pearl",
+    "category": "flowers",
+    "description": "Quantity\nDecrease quantity for PearlIncrease quantity for Pearl\nSold out\nCouldn't load pickup availability\nRefresh\nHydrangeas\njuliet garden roses\nblue twedia\ncoffe mini roses\nchamomile",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [],
+    "originalUrl": "https://juliettefloraldesign1.com/products/pearl",
+    "sourceFile": "juliettefloraldesign1.com_products_pearl.md"
+  },
+  {
+    "id": "perfect-match",
+    "name": "Perfect match",
+    "slug": "perfect-match",
+    "category": "flowers",
+    "description": "View store information",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/perfect-match-e4fe3638.png"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/perfect-match",
+    "sourceFile": "juliettefloraldesign1.com_products_perfect-match.md"
+  },
+  {
+    "id": "pink-mondial-bouquet",
+    "name": "Pink Mondial bouquet",
+    "slug": "pink-mondial-bouquet",
+    "category": "flowers",
+    "description": "View store information\nHigh quality roses from Ecuador.",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [],
+    "originalUrl": "https://juliettefloraldesign1.com/products/pink-mondial",
+    "sourceFile": "juliettefloraldesign1.com_products_pink-mondial.md"
+  },
+  {
+    "id": "pink-sweetheart",
+    "name": "Pink sweetheart",
+    "slug": "pink-sweetheart",
+    "category": "flowers",
+    "description": "View store information\nCompact arrangement; great and high quality flowers as dutch hydrangeas , mini hydrangeas ranunculus, mix of premium roses , lisianthus eucalyptus .",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/pink-sweetheart-293daba8.heic",
+      "/media/pink-sweetheart-1b4acfcf.heic",
+      "/media/pink-sweetheart-b7e60387.heic"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/pink-sweetheart",
+    "sourceFile": "juliettefloraldesign1.com_products_pink-sweetheart.md"
+  },
+  {
+    "id": "happy-birthday",
+    "name": "Happy birthday",
+    "slug": "happy-birthday",
+    "category": "flowers",
+    "description": "View store information",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/happy-birthday-4587d51d.png"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/red-chicken-card",
+    "sourceFile": "juliettefloraldesign1.com_products_red-chicken-card.md"
+  },
+  {
+    "id": "red-moon",
+    "name": "Red Moon",
+    "slug": "red-moon",
+    "category": "flowers",
+    "description": "Quantity\nDecrease quantity for Red MoonIncrease quantity for Red Moon\nSold out\nCouldn't load pickup availability\nRefresh\nA beautiful modern garden styled bouquet  with amazing preserved pampas, red roses, a mix of pine branches, and  with an elegant touch of blue thistle. A perfect gift for the holidays.",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [],
+    "originalUrl": "https://juliettefloraldesign1.com/products/red-moon",
+    "sourceFile": "juliettefloraldesign1.com_products_red-moon.md"
+  },
+  {
+    "id": "rosa-clavel",
+    "name": "Rosa & clavel",
+    "slug": "rosa-clavel",
+    "category": "flowers",
+    "description": "View store information\nMix of premium roses and mini carnation .",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      },
+      {
+        "name": "dium",
+        "price": 150
+      },
+      {
+        "name": "Deluxe",
+        "price": 299
+      },
+      {
+        "name": "",
+        "price": 150
+      },
+      {
+        "name": "",
+        "price": 299
+      }
+    ],
+    "images": [
+      "/media/rosa-clavel-d1b2f5ef.jpg"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/rosa-clavel",
+    "sourceFile": "juliettefloraldesign1.com_products_rosa-clavel.md"
+  },
+  {
+    "id": "rose-all-day",
+    "name": "Rose All Day",
+    "slug": "rose-all-day",
+    "category": "flowers",
+    "description": "View store information\nHydrangeas, spay roses , roses , fillers and greens , play with romantic peaches , white and pinks.",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [],
+    "originalUrl": "https://juliettefloraldesign1.com/products/rose-all-day",
+    "sourceFile": "juliettefloraldesign1.com_products_rose-all-day.md"
+  },
+  {
+    "id": "roses-bouquet",
+    "name": "Roses bouquet",
+    "slug": "roses-bouquet",
+    "category": "flowers",
+    "description": "View store information\nFresh Roses and white astrantia.",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/roses-bouquet-93dab146.jpg",
+      "/media/roses-bouquet-840ae30b.jpg",
+      "/media/roses-bouquet-1d25b599.jpg"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/roses-bouquet",
+    "sourceFile": "juliettefloraldesign1.com_products_roses-bouquet.md"
+  },
+  {
+    "id": "roses",
+    "name": "Roses",
+    "slug": "roses",
+    "category": "flowers",
+    "description": "View store information\nHigh quality Roses\nvase included",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      },
+      {
+        "name": "roses)\n\nSize\n1 dozen",
+        "price": 125
+      },
+      {
+        "name": "2 dozen",
+        "price": 195
+      },
+      {
+        "name": "1 dozen",
+        "price": 125
+      }
+    ],
+    "images": [],
+    "originalUrl": "https://juliettefloraldesign1.com/products/roses",
+    "sourceFile": "juliettefloraldesign1.com_products_roses.md"
+  },
+  {
+    "id": "salom",
+    "name": "Salomé",
+    "slug": "salom",
+    "category": "flowers",
+    "description": "Quantity\nDecrease quantity for SaloméIncrease quantity for Salomé\nSold out\nCouldn't load pickup availability\nRefresh\nPreserved arrangement\nduration 2-3 years",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/salom-ccee2487.heic",
+      "/media/salom-180ddb85.heic"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/salome",
+    "sourceFile": "juliettefloraldesign1.com_products_salome.md"
+  },
+  {
+    "id": "see-you-soon",
+    "name": "See you soon",
+    "slug": "see-you-soon",
+    "category": "flowers",
+    "description": "View store information\nWhite hydrangeas, white roses , white lisianthus and tulips with accents of greens.",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [],
+    "originalUrl": "https://juliettefloraldesign1.com/products/see-you-soon",
+    "sourceFile": "juliettefloraldesign1.com_products_see-you-soon.md"
+  },
+  {
+    "id": "serenity",
+    "name": "Serenity",
+    "slug": "serenity",
+    "category": "flowers",
+    "description": "View store information\nBeautiful mix of green flowers.\nvase included",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/serenity-02787b1a.jpg"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/serenity",
+    "sourceFile": "juliettefloraldesign1.com_products_serenity.md"
+  },
+  {
+    "id": "tulips-love",
+    "name": "Tulips love",
+    "slug": "tulips-love",
+    "category": "flowers",
+    "description": "View store information\n50 tulips",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      },
+      {
+        "name": "sol)\n\nColor\nPink",
+        "price": 215
+      },
+      {
+        "name": "Yellow",
+        "price": 215
+      },
+      {
+        "name": "Purple",
+        "price": 215
+      },
+      {
+        "name": "Red",
+        "price": 225
+      },
+      {
+        "name": "Pink",
+        "price": 215
+      }
+    ],
+    "images": [],
+    "originalUrl": "https://juliettefloraldesign1.com/products/sol",
+    "sourceFile": "juliettefloraldesign1.com_products_sol.md"
+  },
+  {
+    "id": "sophia-bouquet",
+    "name": "Sophia bouquet",
+    "slug": "sophia-bouquet",
+    "category": "flowers",
+    "description": "Quantity\nDecrease quantity for Sophia bouquetIncrease quantity for Sophia bouquet\nSold out\nCouldn't load pickup availability\nRefresh\nFresh bouquet",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/sophia-bouquet-40a6f570.jpg",
+      "/media/sophia-bouquet-22e63abf.jpg"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/sophia-bouquet",
+    "sourceFile": "juliettefloraldesign1.com_products_sophia-bouquet.md"
+  },
+  {
+    "id": "succulents-mix",
+    "name": "Succulents mix",
+    "slug": "succulents-mix",
+    "category": "flowers",
+    "description": "View store information\nTray of 10 succulents",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [],
+    "originalUrl": "https://juliettefloraldesign1.com/products/succulents-mix",
+    "sourceFile": "juliettefloraldesign1.com_products_succulents-mix.md"
+  },
+  {
+    "id": "sweet-candy",
+    "name": "Sweet candy",
+    "slug": "sweet-candy",
+    "category": "flowers",
+    "description": "View store information\nOverlasting flower with a  beautiful white stone vase",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      },
+      {
+        "name": "sweet-vanilla)\n\nStyle\nSet of 2",
+        "price": 65.99
+      },
+      {
+        "name": "Short vase",
+        "price": 35
+      },
+      {
+        "name": "Tall vase",
+        "price": 37
+      },
+      {
+        "name": "Set of 2",
+        "price": 65.99
+      }
+    ],
+    "images": [
+      "/media/sweet-candy-c123bdbe.heic",
+      "/media/sweet-candy-db02cda2.heic",
+      "/media/sweet-candy-a01b3af3.heic"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/sweet-vanilla",
+    "sourceFile": "juliettefloraldesign1.com_products_sweet-vanilla.md"
+  },
+  {
+    "id": "funeral-2",
+    "name": "Funeral 2",
+    "slug": "funeral-2",
+    "category": "flowers",
+    "description": "View store information\n**Please place your order at least one day in advance.\"**\nSympathy floral arrange",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [],
+    "originalUrl": "https://juliettefloraldesign1.com/products/sympathy-open-your-arms",
+    "sourceFile": "juliettefloraldesign1.com_products_sympathy-open-your-arms.md"
+  },
+  {
+    "id": "ophelia",
+    "name": "Ophelia",
+    "slug": "ophelia",
+    "category": "flowers",
+    "description": "View store information\nPremium high quality arrangement Flowers : stock , pink roses , lisianthus , ranunculus .",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/ophelia-a6a928b0.jpg",
+      "/media/ophelia-77b77ae9.jpg"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/taylor-bouquet",
+    "sourceFile": "juliettefloraldesign1.com_products_taylor-bouquet.md"
+  },
+  {
+    "id": "terra-bouquet",
+    "name": "Terra bouquet",
+    "slug": "terra-bouquet",
+    "category": "flowers",
+    "description": "Quantity\nDecrease quantity for Terra bouquetIncrease quantity for Terra bouquet\nSold out\nCouldn't load pickup availability\nRefresh",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/terra-bouquet-9e2ff0f4.jpg",
+      "/media/terra-bouquet-d66f41fb.jpg"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/terra-bouquet",
+    "sourceFile": "juliettefloraldesign1.com_products_terra-bouquet.md"
+  },
+  {
+    "id": "terrarium-designer-choice",
+    "name": "Terrarium-Designer choice",
+    "slug": "terrarium-designer-choice",
+    "category": "plants",
+    "description": "View store information\n- _**Include orchids and succulent mix .**_\n_**NOTE : for this item we are not accepted same day delivery , please order a day in advance.**_",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [],
+    "originalUrl": "https://juliettefloraldesign1.com/products/terrariums-designer-choice",
+    "sourceFile": "juliettefloraldesign1.com_products_terrariums-designer-choice.md"
+  },
+  {
+    "id": "the-madeleine",
+    "name": "The madeleine",
+    "slug": "the-madeleine",
+    "category": "flowers",
+    "description": "View store information\nPreserved arrangement\nDuration 2-3 years",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/the-madeleine-048ad58c.heic",
+      "/media/the-madeleine-8e9012f6.heic",
+      "/media/the-madeleine-0f1ca67b.heic"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/the-madeleine",
+    "sourceFile": "juliettefloraldesign1.com_products_the-madeleine.md"
+  },
+  {
+    "id": "you-are-the-greatest",
+    "name": "You are the greatest",
+    "slug": "you-are-the-greatest",
+    "category": "flowers",
+    "description": "Quantity\nDecrease quantity for You are the greatestIncrease quantity for You are the greatest\nSold out\nCouldn't load pickup availability\nRefresh",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/you-are-the-greatest-736ab9b3.png"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/thumbs-up",
+    "sourceFile": "juliettefloraldesign1.com_products_thumbs-up.md"
+  },
+  {
+    "id": "calla-ranunculus-magic",
+    "name": "Calla & ranunculus magic",
+    "slug": "calla-ranunculus-magic",
+    "category": "flowers",
+    "description": "View store information",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/calla-ranunculus-magic-68cee602.jpg"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/untitled-apr12_17-05",
+    "sourceFile": "juliettefloraldesign1.com_products_untitled-apr12_17-05.md"
+  },
+  {
+    "id": "the-golden-edit",
+    "name": "The golden edit",
+    "slug": "the-golden-edit",
+    "category": "flowers",
+    "description": "Quantity\nDecrease quantity for The golden editIncrease quantity for The golden edit\nSold out\nCouldn't load pickup availability\nRefresh\nThoughtfully crafted premium blooms to make her feel truly special this Mother’s Day🪻\nfree spirit roses\nhyacinths /mini roses/calla lilies/tulips/dianthus and fillers",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/the-golden-edit-7cc7306a.jpg",
+      "/media/the-golden-edit-63f74800.jpg",
+      "/media/the-golden-edit-d0b8b677.jpg",
+      "/media/the-golden-edit-aa2382f7.jpg"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/untitled-apr25_22-03",
+    "sourceFile": "juliettefloraldesign1.com_products_untitled-apr25_22-03.md"
+  },
+  {
+    "id": "warm-embrace",
+    "name": "Warm embrace",
+    "slug": "warm-embrace",
+    "category": "flowers",
+    "description": "Quantity\nDecrease quantity for Warm embraceIncrease quantity for Warm embrace\nSold out\nCouldn't load pickup availability\nRefresh\nPremium floral arrangements for moms who deserve the best. 💐\nLimited availability.\npink ranunculus/tulips/mini gerberas/garden roses/lavender stock/cushions",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/warm-embrace-e45d8ec5.jpg",
+      "/media/warm-embrace-cd1f68be.jpg",
+      "/media/warm-embrace-6dff3745.jpg"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/untitled-apr27_22-48",
+    "sourceFile": "juliettefloraldesign1.com_products_untitled-apr27_22-48.md"
+  },
+  {
+    "id": "damian",
+    "name": "Damian",
+    "slug": "damian",
+    "category": "flowers",
+    "description": "Size\nStandard $110\nQuantity\nDecrease quantity for DamianIncrease quantity for Damian\nSold out\nCouldn't load pickup availability\nRefresh\nPreserved flowers ;duration 2-3 years with vase included.",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      },
+      {
+        "name": "16-22)\n\nSize\nStandard",
+        "price": 110
+      }
+    ],
+    "images": [
+      "/media/damian-61de03cb.heic",
+      "/media/damian-a8f26cd1.heic"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/untitled-jan27_16-22",
+    "sourceFile": "juliettefloraldesign1.com_products_untitled-jan27_16-22.md"
+  },
+  {
+    "id": "merry-little-blooms-dec-21st",
+    "name": "Merry little blooms Dec 21st",
+    "slug": "merry-little-blooms-dec-21st",
+    "category": "flowers",
+    "description": "View store information\n🌸 FLORAL WORKSHOP 🌸\nJoin us for a fun and creative class on\nSunday Dec 21st \\| 4:30 - 6:30PM\nJULIETTE FLORAL DESIGN STUDIO\n📍 170 5th Ave, Brooklyn, NY 11217\n🌿You’ll learn how to create your very own holiday centerpiece — and you’ll get to take your beautiful arrangement home! We’ll also have yummy snacks, dessert, and drinks (both alcoholic and non-alcoholic) for you to enjoy while you create.\n🌸\nWe provide all the materials you’ll need for this workshop — so don’t worry about a thing! Just get dressed, feel beautiful, and come enjoy a lovely afternoon with us.\nThere’s no better way to celebrate the season than creating something magical with your friends. (Bring a friend and you’ll receive a special discount!)\n✨ Perfect for beginners or flower lovers wanting to grow your floral skills!\nWe can’t wait to see you there.\nBlooming together. 🌸✨\n🌷 Spots are limited — reserve yours today!",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      },
+      {
+        "name": "",
+        "price": 99.99
+      }
+    ],
+    "images": [
+      "/media/merry-little-blooms-dec-21st-32bb399a.png",
+      "/media/merry-little-blooms-dec-21st-eb687553.png",
+      "/media/merry-little-blooms-dec-21st-2d6e8388.jpg",
+      "/media/merry-little-blooms-dec-21st-e098b1f7.jpg",
+      "/media/merry-little-blooms-dec-21st-311a22d3.jpg",
+      "/media/merry-little-blooms-dec-21st-fb9b8f11.jpg"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/untitled-jul2_17-53",
+    "sourceFile": "juliettefloraldesign1.com_products_untitled-jul2_17-53.md"
+  },
+  {
+    "id": "hermosa-primavera",
+    "name": "Hermosa primavera",
+    "slug": "hermosa-primavera",
+    "category": "flowers",
+    "description": "View store information\nMix of bright and seasonal flowers",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      },
+      {
+        "name": "09-52)\n\nSize\nPetite",
+        "price": 125
+      },
+      {
+        "name": "Petite",
+        "price": 125
+      }
+    ],
+    "images": [
+      "/media/hermosa-primavera-85468157.jpg",
+      "/media/hermosa-primavera-bcbe5137.jpg"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/untitled-mar27_09-52",
+    "sourceFile": "juliettefloraldesign1.com_products_untitled-mar27_09-52.md"
+  },
+  {
+    "id": "buttercream-bouquet",
+    "name": "Buttercream bouquet",
+    "slug": "buttercream-bouquet",
+    "category": "flowers",
+    "description": "View store information\nMix of seasonal flowers\ngarden roses , chamomile , green dianthus , snapdragons",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      },
+      {
+        "name": "17-08)\n\nSize\nS",
+        "price": 75
+      },
+      {
+        "name": "M",
+        "price": 125
+      },
+      {
+        "name": "L",
+        "price": 175
+      },
+      {
+        "name": "S",
+        "price": 75
+      }
+    ],
+    "images": [
+      "/media/buttercream-bouquet-48c704be.jpg",
+      "/media/buttercream-bouquet-1d22613e.jpg",
+      "/media/buttercream-bouquet-bbdc5488.jpg"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/untitled-mar30_17-08",
+    "sourceFile": "juliettefloraldesign1.com_products_untitled-mar30_17-08.md"
+  },
+  {
+    "id": "lauren-bouquet",
+    "name": "Lauren bouquet",
+    "slug": "lauren-bouquet",
+    "category": "flowers",
+    "description": "View store information\nBlues & purples\nblue hydrangeas/lavander stock/purple chrysanthemum/hot pink peonies/ cuchion flower/purple tulips / limonium  /thistle/purple orchids.",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      },
+      {
+        "name": "11-15)\n\nSizes\nPetite",
+        "price": 69.99
+      },
+      {
+        "name": "Deluxe",
+        "price": 125
+      },
+      {
+        "name": "Petite",
+        "price": 69.99
+      }
+    ],
+    "images": [
+      "/media/lauren-bouquet-0e323fda.jpg",
+      "/media/lauren-bouquet-47997989.jpg",
+      "/media/lauren-bouquet-6f3ea55e.jpg"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/untitled-mar3_11-15",
+    "sourceFile": "juliettefloraldesign1.com_products_untitled-mar3_11-15.md"
+  },
+  {
+    "id": "sweet-spirit",
+    "name": "Sweet spirit",
+    "slug": "sweet-spirit",
+    "category": "flowers",
+    "description": "View store information\nPremium Ecuadorian roses\n25 free spirit roses",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/sweet-spirit-282ee8ae.jpg",
+      "/media/sweet-spirit-769cb591.jpg"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/untitled-may5_16-39",
+    "sourceFile": "juliettefloraldesign1.com_products_untitled-may5_16-39.md"
+  },
+  {
+    "id": "fall",
+    "name": "Fall",
+    "slug": "fall",
+    "category": "flowers",
+    "description": "Quantity\nDecrease quantity for FallIncrease quantity for Fall\nSold out\nCouldn't load pickup availability\nRefresh\nPreserved arrangement\nVase include",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/fall-08cef9a6.jpg"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/untitled-nov5_15-30",
+    "sourceFile": "juliettefloraldesign1.com_products_untitled-nov5_15-30.md"
+  },
+  {
+    "id": "ginger",
+    "name": "Ginger",
+    "slug": "ginger",
+    "category": "flowers",
+    "description": "Quantity\nDecrease quantity for GingerIncrease quantity for Ginger\nSold out\nCouldn't load pickup availability\nRefresh\nPreserved arrangements\noverlasting flowers\nvase included",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/ginger-a2350f71.jpg"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/untitled-sep17_10-48",
+    "sourceFile": "juliettefloraldesign1.com_products_untitled-sep17_10-48.md"
+  },
+  {
+    "id": "kenia",
+    "name": "Kenia",
+    "slug": "kenia",
+    "category": "flowers",
+    "description": "View store information\nPreserved arrangement\noverlasting flowers\nvase included",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/kenia-44a6f587.jpg",
+      "/media/kenia-4b921936.jpg"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/untitled-sep23_16-13",
+    "sourceFile": "juliettefloraldesign1.com_products_untitled-sep23_16-13.md"
+  },
+  {
+    "id": "wedding-set",
+    "name": "Wedding set",
+    "slug": "wedding-set",
+    "category": "flowers",
+    "description": "View store information\nOur wedding set\nincludes an small bridal bouquet and boutonnière",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      },
+      {
+        "name": "wedding-set)\n\nSmall",
+        "price": 135
+      },
+      {
+        "name": "Medium",
+        "price": 235
+      },
+      {
+        "name": "",
+        "price": 135
+      },
+      {
+        "name": "",
+        "price": 235
+      }
+    ],
+    "images": [
+      "/media/wedding-set-1dbe5d35.jpg",
+      "/media/wedding-set-d28f8081.jpg",
+      "/media/wedding-set-da064374.jpg"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/wedding-set",
+    "sourceFile": "juliettefloraldesign1.com_products_wedding-set.md"
+  },
+  {
+    "id": "welcome-baby",
+    "name": "Welcome baby",
+    "slug": "welcome-baby",
+    "category": "flowers",
+    "description": "View store information",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/welcome-baby-167cc187.png"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/welcome-baby-1",
+    "sourceFile": "juliettefloraldesign1.com_products_welcome-baby-1.md"
+  },
+  {
+    "id": "white-heart",
+    "name": "White Heart",
+    "slug": "white-heart",
+    "category": "flowers",
+    "description": "View store information\n\" **Please place your order at least one day in advance.\"**\nSympathy Arrangement\nHeart 24”",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [],
+    "originalUrl": "https://juliettefloraldesign1.com/products/white-heart",
+    "sourceFile": "juliettefloraldesign1.com_products_white-heart.md"
+  },
+  {
+    "id": "wreath",
+    "name": "Wreath",
+    "slug": "wreath",
+    "category": "flowers",
+    "description": "View store information\nHolidays wreath\n•12 inches",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [],
+    "originalUrl": "https://juliettefloraldesign1.com/products/wreath",
+    "sourceFile": "juliettefloraldesign1.com_products_wreath.md"
+  },
+  {
+    "id": "you-are-a-masterpiece",
+    "name": "You are a masterpiece",
+    "slug": "you-are-a-masterpiece",
+    "category": "flowers",
+    "description": "Quantity\nDecrease quantity for You are a masterpieceIncrease quantity for You are a masterpiece\nSold out\nCouldn't load pickup availability\nRefresh",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/you-are-a-masterpiece-ed3461e0.png"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/you-are-a-masterpiece",
+    "sourceFile": "juliettefloraldesign1.com_products_you-are-a-masterpiece.md"
+  },
+  {
+    "id": "you-are-loved",
+    "name": "You are loved",
+    "slug": "you-are-loved",
+    "category": "flowers",
+    "description": "View store information",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/you-are-loved-18189a47.png"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/you-are-loved",
+    "sourceFile": "juliettefloraldesign1.com_products_you-are-loved.md"
+  },
+  {
+    "id": "you-are-magnificent",
+    "name": "You are magnificent",
+    "slug": "you-are-magnificent",
+    "category": "flowers",
+    "description": "View store information",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/you-are-magnificent-c2d3f9d1.webp"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/you-are-magnificent",
+    "sourceFile": "juliettefloraldesign1.com_products_you-are-magnificent.md"
+  },
+  {
+    "id": "you-make-my-life-better",
+    "name": "You make my life better",
+    "slug": "you-make-my-life-better",
+    "category": "flowers",
+    "description": "View store information",
+    "variants": [
+      {
+        "name": "Use MOM26 for",
+        "price": 10
+      }
+    ],
+    "images": [
+      "/media/you-make-my-life-better-ac6985d8.webp"
+    ],
+    "originalUrl": "https://juliettefloraldesign1.com/products/you-make-my-life-better",
+    "sourceFile": "juliettefloraldesign1.com_products_you-make-my-life-better.md"
+  }
+]

@@ -2,6 +2,8 @@ import "./globals.css"
 import { Poppins, Ovo } from "next/font/google"
 import Navbar from "../lib/components/navbar"
 import Footer from "../lib/components/footer"
+import { CartProvider } from "../lib/cart-context"
+import CartDrawer from "../lib/components/CartDrawer"
 
 const poppins = Poppins({
   subsets: ["latin"],
@@ -33,14 +35,17 @@ export default function RootLayout({
   return (
     <html lang="en" className={`${poppins.variable} ${ovo.variable}`}>
       <body className="min-h-screen flex flex-col font-body text-brand-text">
-        <div className="bg-brand-olive text-white text-center py-2 text-sm px-4">
-          Thank you so much for all the support 💕🌹 Only pick ups for Valentine&apos;s Day
-        </div>
-        <Navbar />
-        <main className="flex-1">
-          {children}
-        </main>
-        <Footer />
+        <CartProvider>
+          <div className="bg-brand-olive text-white text-center py-2 text-sm px-4">
+            🌸 Make Mom feel extra special with premium flowers 💐 Use MOM26 for $10 OFF
+          </div>
+          <Navbar />
+          <main className="flex-1">
+            {children}
+          </main>
+          <Footer />
+          <CartDrawer />
+        </CartProvider>
       </body>
     </html>
   )
