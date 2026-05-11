@@ -12,6 +12,7 @@ if (!fs.existsSync(MEDIA_DIR)) fs.mkdirSync(MEDIA_DIR, { recursive: true });
 const products = [];
 const mediaMap = {};
 const collections = new Set();
+const slugCounts = {};
 const business = {
   name: 'Juliette Floral Design',
   address: '170 5TH AVE, BROOKLYN, NY 11217',
@@ -57,7 +58,14 @@ async function processFiles() {
     // Skip empty titles
     if (!title) title = file.replace('.md', '');
 
-    const slug = title.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
+    let slug = title.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
+    
+    if (slugCounts[slug]) {
+      slugCounts[slug]++;
+      slug = `${slug}-${slugCounts[slug]}`;
+    } else {
+      slugCounts[slug] = 1;
+    }
     
     // Extract description
     // The description is usually between "View store information" or "Add to cart" and "Share"
