@@ -27,7 +27,7 @@ export default function Navbar() {
   const { cartCount, setIsCartOpen } = useCart()
 
   return (
-    <nav className="sticky top-0 z-50 bg-brand-olive border-b border-white/20 shadow-sm">
+    <nav className="sticky top-0 z-50 bg-brand-olive/95 backdrop-blur-md border-b border-white/20 shadow-sm">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 py-4 flex items-center justify-between text-white">
         <button
           className="hidden lg:inline-flex items-center justify-center w-9 h-9 rounded-full border border-white/30 hover:bg-white/10 transition-colors"
@@ -87,13 +87,13 @@ export default function Navbar() {
           {navLinks.map((link) =>
             link.children ? (
               <div key={link.label} className="relative group">
-                <button className="flex items-center gap-1 hover:text-brand-peach transition-colors">
+                <button className="flex items-center gap-1 hover:text-brand-peach transition-colors duration-300">
                   {link.label}
                   <svg className="w-3 h-3" fill="none" viewBox="0 0 10 6">
                     <path fillRule="evenodd" clipRule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor" />
                   </svg>
                 </button>
-                <div className="absolute top-full left-0 mt-2 w-44 bg-white border border-brand-peach rounded-lg shadow-md opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all z-50">
+                <div className="absolute top-full left-0 mt-2 w-44 bg-white border border-brand-peach rounded-lg shadow-lg opacity-0 invisible translate-y-1 group-hover:opacity-100 group-hover:visible group-hover:translate-y-0 transition-all duration-300 ease-out z-50">
                   {link.children.map((child) => (
                     <Link
                       key={child.href}
@@ -106,7 +106,7 @@ export default function Navbar() {
                 </div>
               </div>
             ) : (
-              <Link key={link.href} href={link.href} className="hover:text-brand-peach transition-colors">
+              <Link key={link.href} href={link.href} className="hover:text-brand-peach transition-colors duration-300">
                 {link.label}
               </Link>
             )
@@ -121,7 +121,7 @@ export default function Navbar() {
               <div key={link.label}>
                 <button
                   onClick={() => setFlowersOpen(!flowersOpen)}
-                  className="flex items-center gap-1 py-2 w-full text-left hover:text-brand-peach transition-colors"
+                  className="flex items-center gap-1 py-2 w-full text-left hover:text-brand-peach transition-colors duration-300"
                 >
                   {link.label}
                   <svg className="w-3 h-3" fill="none" viewBox="0 0 10 6">
@@ -134,7 +134,7 @@ export default function Navbar() {
                       <Link
                         key={child.href}
                         href={child.href}
-                        className="block py-1 hover:text-brand-peach transition-colors"
+                        className="block py-1 hover:text-brand-peach transition-colors duration-300"
                         onClick={() => setMenuOpen(false)}
                       >
                         {child.label}
@@ -147,7 +147,7 @@ export default function Navbar() {
               <Link
                 key={link.href}
                 href={link.href}
-                className="block py-2 hover:text-brand-peach transition-colors"
+                className="block py-2 hover:text-brand-peach transition-colors duration-300"
                 onClick={() => setMenuOpen(false)}
               >
                 {link.label}
